@@ -1,0 +1,79 @@
+@media screen and (max-width: 600px){
+
+
+
+	*{
+		margin: 0px;
+	}
+	/*====================== header start hear =========================*/
+	.section-title{
+		font-size:30px;
+		margin:auto;
+		padding:auto;
+	}
+	header button{
+		margi
+	}
+	.header-img{
+		margin-top:-60px;
+	}
+	
+
+	/*====================== header ends hear =========================*/
+
+
+
+
+	/*============================= discount start hear ==========================*/
+	.offer-title{
+		font-size: 20px;
+	}
+	
+	.offer-des{
+		width: 90%;
+	}
+	.janury-offer{
+		margin-top: 0px;
+	}
+
+	#offer button{
+		margin-top: -20px;
+	}
+	/*============================= discount ends hear ==========================*/
+
+
+
+
+
+	/*====================== piza start hear =========================*/
+.piza-bi-img{
+	margin-top: 50px;
+}
+.piza-sm-img{
+	margin-top: -93px;
+}
+
+
+/*====================== piza ends  hear =========================*/
+
+
+
+
+
+
+/*============================= story start hear ==========================*/
+.our-story-list{
+	margin-top: 50px;
+}
+.our-story-list h3{
+	margin-bottom: 10px;
+	margin-left: 100px;
+}
+
+
+
+
+
+
+
+}
